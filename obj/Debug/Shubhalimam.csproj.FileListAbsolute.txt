@@ -1,0 +1,8 @@
+D:\.net\Shubhalimam\bin\Debug\Shubhalimam.exe.config
+D:\.net\Shubhalimam\bin\Debug\Shubhalimam.exe
+D:\.net\Shubhalimam\bin\Debug\Shubhalimam.pdb
+D:\.net\Shubhalimam\obj\Debug\Shubhalimam.csproj.AssemblyReference.cache
+D:\.net\Shubhalimam\obj\Debug\Shubhalimam.csproj.SuggestedBindingRedirects.cache
+D:\.net\Shubhalimam\obj\Debug\Shubhalimam.csproj.CoreCompileInputs.cache
+D:\.net\Shubhalimam\obj\Debug\Shubhalimam.exe
+D:\.net\Shubhalimam\obj\Debug\Shubhalimam.pdb

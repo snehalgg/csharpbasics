@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Eduramp training\\.net\\Shubhalimam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|d:\\eduramp training\\.net\\shubhalimam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\paraconstructmob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:paraconstructmob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\monthno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:monthno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\methodsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:methodsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\listsegs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:listsegs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\linqtask3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:linqtask3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\linqtask2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:linqtask2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\linqtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:linqtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\inheritancedhruv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:inheritancedhruv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\inheritanceapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:inheritanceapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\greaterthanlistslinqquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:greaterthanlistslinqquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\functionadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:functionadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\foreachsmall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:foreachsmall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\dowhile10_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:dowhile10_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\dictonarytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:dictonarytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\dictonaryegs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:dictonaryegs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\arraylistlinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:arraylistlinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\arraylinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:arraylinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Shubhalimam||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\whilelooop1-10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:whilelooop1-10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\qegs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:qegs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\student_inheri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:student_inheri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\stringequal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:stringequal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|D:\\Eduramp training\\.net\\Shubhalimam\\recttester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C492E72D-6773-4C6D-A79B-916D8805D483}|Shubhalimam.csproj|solutionrelative:recttester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "linqtask.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\linqtask.cs",
+              "RelativeDocumentMoniker": "linqtask.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\linqtask.cs",
+              "RelativeToolTip": "linqtask.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwBgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:45.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "linqtask2.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\linqtask2.cs",
+              "RelativeDocumentMoniker": "linqtask2.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\linqtask2.cs",
+              "RelativeToolTip": "linqtask2.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "linqtask3.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\linqtask3.cs",
+              "RelativeDocumentMoniker": "linqtask3.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\linqtask3.cs",
+              "RelativeToolTip": "linqtask3.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "listsegs.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\listsegs.cs",
+              "RelativeDocumentMoniker": "listsegs.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\listsegs.cs",
+              "RelativeToolTip": "listsegs.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "methodsyntax.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\methodsyntax.cs",
+              "RelativeDocumentMoniker": "methodsyntax.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\methodsyntax.cs",
+              "RelativeToolTip": "methodsyntax.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monthno.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\Monthno.cs",
+              "RelativeDocumentMoniker": "Monthno.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\Monthno.cs",
+              "RelativeToolTip": "Monthno.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAswDEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "paraconstructmob.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\paraconstructmob.cs",
+              "RelativeDocumentMoniker": "paraconstructmob.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\paraconstructmob.cs",
+              "RelativeToolTip": "paraconstructmob.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwBQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "inheritancedhruv.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\inheritancedhruv.cs",
+              "RelativeDocumentMoniker": "inheritancedhruv.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\inheritancedhruv.cs",
+              "RelativeToolTip": "inheritancedhruv.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InheritanceApplication.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\InheritanceApplication.cs",
+              "RelativeDocumentMoniker": "InheritanceApplication.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\InheritanceApplication.cs",
+              "RelativeToolTip": "InheritanceApplication.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "inheritance.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\inheritance.cs",
+              "RelativeDocumentMoniker": "inheritance.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\inheritance.cs",
+              "RelativeToolTip": "inheritance.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "greaterthanlistslinqquery.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\greaterthanlistslinqquery.cs",
+              "RelativeDocumentMoniker": "greaterthanlistslinqquery.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\greaterthanlistslinqquery.cs",
+              "RelativeToolTip": "greaterthanlistslinqquery.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "functionadd.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\functionadd.cs",
+              "RelativeDocumentMoniker": "functionadd.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\functionadd.cs",
+              "RelativeToolTip": "functionadd.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "foreachsmall.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\foreachsmall.cs",
+              "RelativeDocumentMoniker": "foreachsmall.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\foreachsmall.cs",
+              "RelativeToolTip": "foreachsmall.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dowhile10_1.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\dowhile10_1.cs",
+              "RelativeDocumentMoniker": "dowhile10_1.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\dowhile10_1.cs",
+              "RelativeToolTip": "dowhile10_1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dictonarytask.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\dictonarytask.cs",
+              "RelativeDocumentMoniker": "dictonarytask.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\dictonarytask.cs",
+              "RelativeToolTip": "dictonarytask.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dictonaryegs.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\dictonaryegs.cs",
+              "RelativeDocumentMoniker": "dictonaryegs.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\dictonaryegs.cs",
+              "RelativeToolTip": "dictonaryegs.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "arraylistlinq.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\arraylistlinq.cs",
+              "RelativeDocumentMoniker": "arraylistlinq.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\arraylistlinq.cs",
+              "RelativeToolTip": "arraylistlinq.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "arraylinq.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\arraylinq.cs",
+              "RelativeDocumentMoniker": "arraylinq.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\arraylinq.cs",
+              "RelativeToolTip": "arraylinq.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Shubhalimam",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\Shubhalimam.csproj",
+              "RelativeDocumentMoniker": "Shubhalimam.csproj",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\Shubhalimam.csproj",
+              "RelativeToolTip": "Shubhalimam.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-03-16T16:01:08.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "whilelooop1-10.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\whilelooop1-10.cs",
+              "RelativeDocumentMoniker": "whilelooop1-10.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\whilelooop1-10.cs",
+              "RelativeToolTip": "whilelooop1-10.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "qegs.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\qegs.cs",
+              "RelativeDocumentMoniker": "qegs.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\qegs.cs",
+              "RelativeToolTip": "qegs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "weekday.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\weekday.cs",
+              "RelativeDocumentMoniker": "weekday.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\weekday.cs",
+              "RelativeToolTip": "weekday.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswCQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "student_inheri.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\student_inheri.cs",
+              "RelativeDocumentMoniker": "student_inheri.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\student_inheri.cs",
+              "RelativeToolTip": "student_inheri.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\student.cs",
+              "RelativeDocumentMoniker": "student.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\student.cs",
+              "RelativeToolTip": "student.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwDEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "stringequal.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\stringequal.cs",
+              "RelativeDocumentMoniker": "stringequal.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\stringequal.cs",
+              "RelativeToolTip": "stringequal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "recttester.cs",
+              "DocumentMoniker": "D:\\Eduramp training\\.net\\Shubhalimam\\recttester.cs",
+              "RelativeDocumentMoniker": "recttester.cs",
+              "ToolTip": "D:\\Eduramp training\\.net\\Shubhalimam\\recttester.cs",
+              "RelativeToolTip": "recttester.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwDAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:46.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
